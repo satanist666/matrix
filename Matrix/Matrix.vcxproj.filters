@@ -43,7 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="app.ico">
-      <Filter>Resource Files</Filter>
+      <Filter>Source Files</Filter>
     </Image>
   </ItemGroup>
 </Project>
